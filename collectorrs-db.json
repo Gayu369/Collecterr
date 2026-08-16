@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "user-f4c80cb6-0d5b-4bd1-8761-c9884037e5e8",
+      "name": "Gayathri",
+      "email": "gayathri062026@gmail.com",
+      "password": "coinsforlife##",
+      "profileImage": "data:image/svg+xml;charset=UTF-8,%0A%20%20%20%20%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20160%20160'%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Cdefs%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'bg'%20x1%3D'0'%20x2%3D'1'%20y1%3D'0'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%23fbbf24'%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'50%25'%20stop-color%3D'%23fb7185'%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%2367e8f9'%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Crect%20width%3D'160'%20height%3D'160'%20rx%3D'32'%20fill%3D'url(%23bg)'%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Ccircle%20cx%3D'52'%20cy%3D'52'%20r%3D'26'%20fill%3D'rgba(255%2C255%2C255%2C0.22)'%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Ccircle%20cx%3D'104'%20cy%3D'118'%20r%3D'30'%20fill%3D'rgba(0%2C0%2C0%2C0.12)'%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Cpath%20d%3D'M38%20104C52%2074%20103%2062%20126%2094V122H38V104Z'%20fill%3D'rgba(255%2C255%2C255%2C0.22)'%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Ccircle%20cx%3D'80'%20cy%3D'72'%20r%3D'28'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%2F%3E%0A%20%20%20%20%20%20%20%20%20%20%20%20%3Ctext%20x%3D'80'%20y%3D'92'%20font-size%3D'30'%20text-anchor%3D'middle'%20fill%3D'%231f2937'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%3EGA%3C%2Ftext%3E%0A%20%20%20%20%20%20%20%20%20%20%3C%2Fsvg%3E%0A%20%20%20%20%20%20%20%20",
+      "paletteKey": "sunrise",
+      "createdAt": 1786859520403
+    },
+    {
+      "id": "user-f97fc7ce-e2c1-4201-b614-d567422d98b1",
+      "name": "bob",
+      "email": "test@gmail.com",
+      "password": "bab",
+      "profileImage": "",
+      "paletteKey": "sunrise",
+      "createdAt": 1786859904532
+    },
+    {
+      "id": "user-cabb5e9c-1462-4272-aa62-1cae5ba5eccc",
+      "name": "pat",
+      "email": "test1@gmail.com",
+      "password": "pat",
+      "profileImage": "",
+      "paletteKey": "sunrise",
+      "createdAt": 1786859951949
+    },
+    {
+      "id": "user-1824caa8-9853-4787-bc26-5d1044710a26",
+      "name": "vigu",
+      "email": "radhika.at18@gmail.com",
+      "password": ")P]>p=9e6C4?v7_",
+      "profileImage": "https://www.istockphoto.com/vector/dog-and-cat-simple-icon-illustration-material-gm2148247016-569344306",
+      "paletteKey": "sunrise",
+      "createdAt": 1786860209094
+    }
+  ],
+  "privateMessages": [
+    {
+      "id": "msg-a05b6c0d-e146-4f1c-8252-02929afa9722",
+      "senderEmail": "test@gmail.com",
+      "recipientEmail": "gayathri062026@gmail.com",
+      "text": "hi team",
+      "createdAt": 1786860069584
+    },
+    {
+      "id": "msg-1480161d-dc5c-4145-83cd-4802343320c4",
+      "senderEmail": "radhika.at18@gmail.com",
+      "recipientEmail": "gayathri062026@gmail.com",
+      "text": "hi",
+      "createdAt": 1786860174273
+    }
+  ],
+  "groups": [
+    {
+      "id": "group-8e477d6f-06db-434f-af42-d35c678e9853",
+      "name": "Collectors: Gayathri",
+      "participants": [
+        "radhika.at18@gmail.com",
+        "gayathri062026@gmail.com"
+      ],
+      "createdAt": 1786860981378,
+      "updatedAt": 1786861692703,
+      "messages": [
+        {
+          "id": "msg-fba6056d-2920-476b-9154-c67c477bcc40",
+          "senderEmail": "gayathri062026@gmail.com",
+          "text": "hi",
+          "createdAt": 1786861595861
+        },
+        {
+          "id": "msg-b9e59034-a8c7-4508-93df-d05ff4cc5961",
+          "senderEmail": "radhika.at18@gmail.com",
+          "text": "lets search for coins for now",
+          "createdAt": 1786861653457
+        },
+        {
+          "id": "msg-fa705664-4819-49de-9bc2-b8b4debc36e9",
+          "senderEmail": "radhika.at18@gmail.com",
+          "text": "sure lets do it",
+          "createdAt": 1786861677264
+        },
+        {
+          "id": "msg-6e55e68a-4417-4d9b-99c3-c1c8bad676e0",
+          "senderEmail": "radhika.at18@gmail.com",
+          "text": "yes sure lets do it",
+          "createdAt": 1786861692703
+        }
+      ],
+      "lastMessage": "yes sure lets do it"
+    }
+  ]
+}
